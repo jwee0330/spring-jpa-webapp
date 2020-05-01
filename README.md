@@ -1,2 +1,2 @@
 # spring-jpa-webapp
-toy webapp
+toy project webapp
